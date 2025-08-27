@@ -4,7 +4,7 @@ In this project, we embark on a fascinating journey to uncover hidden patterns, 
 
 ## 🎯 **Objective**
 
-The goal of this project is to explore, analyze, and visualize two significant datasets: the **Netflix Dataset** and the **Amazon Prime Video Dataset**. We will dive deep into the data to gain a comprehensive understanding and extract valuable insights through various EDA techniques.
+The aim of this project is to explore, analyze, and visualize two significant datasets: the **Netflix Dataset** and the **Amazon Prime Video Dataset**. We will dive deep into the data to gain a comprehensive understanding and extract valuable insights through various EDA techniques.
 
 ## 🔍 **What is Exploratory Data Analysis?**
 
